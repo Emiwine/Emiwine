@@ -8,7 +8,4 @@
 ## Hello World!! 😁
 I am Piyush Kumar Jha😃.I love to explore , learn about new things and build.
 ## ⚡ Technologies
-Talk to me about - 
-- Front-end development using **HTML, Javascript,CSS,Tailwind-CSS**
-- Working on Backend Development using **Node,MongoDB and ExpressJS**
-- Solving Data structure and algorithm questions in **Java , Python , Javascript**
+`Python` and `C++` 
