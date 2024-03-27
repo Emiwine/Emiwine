@@ -10,8 +10,8 @@ I am Piyush Kumar Jha😃.I love to explore , learn about new things and build.
 ⚡ Technologies
 
 Talk to me about-
-# Solving Data structure & Algorithm questions using C/C++. 
-# Programming language - Python , c++. 
-# Machine Learning , Data Scientist.
+ Solving Data structure & Algorithm questions using C/C++. 
+ Programming language - Python , c++. 
+ Machine Learning , Data Scientist.
 
 
