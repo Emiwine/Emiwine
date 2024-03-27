@@ -1,16 +1,14 @@
-### Hi there 👋
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<!--
-**Emiwine/Emiwine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-Here are some ideas to get you started:
+[![Gmail Badge](https://img.shields.io/badge/-pks85715@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pks85715@gmail.com)](mailto:piyushjha416@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Hello World!! 😁
+I am Piyush Kumar Jha😃.I love to explore , learn about new things and build.
+## ⚡ Technologies
+Talk to me about - 
+- Front-end development using **HTML, Javascript,CSS,Tailwind-CSS**
+- Working on Backend Development using **Node,MongoDB and ExpressJS**
+- Solving Data structure and algorithm questions in **Java , Python , Javascript**
