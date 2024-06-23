@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Piyush Kumar Jha</h1>
 <h3 align="center">A passionate ML Developer from India</h3>
-<img align="right" alt = "coding" width = "400" src="https://https://camo.githubusercontent.com/2f49ea9e02114eeadeea17496da4b9ac70c3a0e4be250b02f9bfe77836cde591/68747470733a2f2f692e6d616b65616769662e636f6d2f6d656469612f342d30352d323032322f4676425673742e676966" alt="emiwine" /> </p>
+<img align="right" alt = "coding" width = "400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" alt="emiwine" /> </p>
 
 
 - 🌱 I’m currently learning **C/C++ , Data Structure & Algorithm , Machine Learning**
