@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Piyush Kumar Jha</h1>
 <h3 align="center">A passionate ML Developer from India</h3>
-<img align="right" alt = "coding" width = "400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="emiwine" /> </p>
+<img align="right" alt = "coding" width = "400" src="https://https://camo.githubusercontent.com/2f49ea9e02114eeadeea17496da4b9ac70c3a0e4be250b02f9bfe77836cde591/68747470733a2f2f692e6d616b65616769662e636f6d2f6d656469612f342d30352d323032322f4676425673742e676966" alt="emiwine" /> </p>
 
 
 - 🌱 I’m currently learning **C/C++ , Data Structure & Algorithm , Machine Learning**
@@ -16,7 +16,7 @@
 <a href="https://twitter.com/emiwine77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="emiwine77" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/piyushjha77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/piyushjha77" height="30" width="40" /></a>
 <a href="https://instagram.com/_.piyush25._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.piyush25._" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/leetcode.com/user3428pe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode.com/user3428pe/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/user3428PE/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user3428pe/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
